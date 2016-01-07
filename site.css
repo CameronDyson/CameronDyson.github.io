@@ -1,5 +1,10 @@
-tr.menu{
+table.menu{
 font-size: 70px;
 width:100%;
 border-spacing: 5px;
+}
+tr.menu{
+font-size: 10px;
+width:100%;
+border-spacing: 12px;
 }
